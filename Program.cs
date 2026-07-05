@@ -7,4 +7,9 @@ class App
     {
         Console.WriteLine("hello");
     }
+
+    public void GreetWhite()
+    {
+        Console.WriteLine("hello white");
+    }
 }
