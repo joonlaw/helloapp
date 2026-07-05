@@ -6,6 +6,8 @@ class App
     public void Run()
     {
         Console.WriteLine("hello everyone");
+        GreetWhite();
+        GreetBlack();
     }
 
     public void GreetWhite()
